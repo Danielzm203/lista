@@ -25,7 +25,10 @@ public class lista {
                     int resta=num1-num2;
                     System.out.println("El resultado es: "+resta);
                     break;
-
+case 3:
+                    int multiplicacion=num1*num2;
+                    System.out.println("El resultado es: "+multiplicacion);
+                    break;
         }
     }
 }
