@@ -21,6 +21,11 @@ public class lista {
                 int suma=num1+num2;
                 System.out.println("El resultado es: "+suma);
 		break;
+             case 2:
+                    int resta=num1-num2;
+                    System.out.println("El resultado es: "+resta);
+                    break;
+
         }
     }
 }
