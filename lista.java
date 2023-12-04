@@ -33,6 +33,12 @@ case 3:
                     int division=num1/num2;
                     System.out.println("El resultado es: "+division);
                     break;
+
+  case 5:
+                    System.out.println("Vale adios");
+                    break;
+                default:
+                    System.out.println("Opcion no valida");
         }
     }
 }
